@@ -9,3 +9,20 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.dateHolder {
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  width: 100%;
+
+  .weekdayHolder {
+    display: block;
+  }
+
+  .weekends {
+    background: lightseagreen;
+  }
+}
